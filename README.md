@@ -1,16 +1,6 @@
-# Salesforce-UI-Clone
+# Workforce-UI-Clone
 
-## Live Demo
-
-[click to view](https://aniket23padalkar.github.io/Salesforce-UI-Clone/)
-
-Note: This is a **UI clone for learning purposes**.
-
--   You can run the project **locally** by downloading the files and opening `index.html`.
--   If you use the live link, **Chrome/Edge may show a warning** because it mimics a real brand (Amazon).
--   This site does **not collect any personal information**.
-
-## Project Overview
+## Description
 
 This was my **second project**, and I focused on making it **responsive** across different screen sizes.  
 I practiced **media queries**, **flexbox**, and **CSS grid** while ensuring the layout stays clean and structured with semantic HTML.
