@@ -180,7 +180,7 @@ main {
 .hero-section {
     height: 100%;
     padding: 4rem 0;
-    background-image: url(bg_img.jpg);
+    background-image: url(images/bg_img.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -255,7 +255,7 @@ article {
 /* second section of main  */
 
 .hero-section2 {
-    background-image: url(bg_img1.jpg);
+    background-image: url(images/bg_img1.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom center;
@@ -550,7 +550,7 @@ footer {
     }
 
     .hero-section {
-        background-image: url(mobile_bg.jpg);
+        background-image: url(images/mobile_bg.jpg);
         background-size: cover;
         min-height: 51.5vh;
     }
@@ -689,7 +689,7 @@ footer {
     }
 
     .hero-section {
-        background-image: url(mobile_bg.jpg);
+        background-image: url(images/mobile_bg.jpg);
         background-size: cover;
     }
 
@@ -843,7 +843,7 @@ footer {
     }
 
     .hero-section {
-        background-image: url(mobile_bg.jpg);
+        background-image: url(images/mobile_bg.jpg);
         background-size: cover;
         padding: 3rem 0;
     }
